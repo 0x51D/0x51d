@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Kieran, a **Full Stack Developer & Security Engineer**
 ### 👩‍💻 Current Projects
 - TokonamePHP - *My first attempt at writing a PHP framrwork.*
 - Gensite - *Game Control Panel SaSS application.*
-- ScoRP - *Helping out day to day to build the #1 Scottish Roleplay Server on FiveM.*
+- BuckyRP - *Devloping and running the new, #1 Scottish Roleplay server on FiveM*
 - 0xOS - *A Hacking based OS for security engineers.*
 
 ### 💡 Goals for 2020
