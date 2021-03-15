@@ -1,4 +1,3 @@
-<img src= "https://i.imgur.com/BiyzqOi.png"></img>
 <br>
 Welcome to my GitHub! I'm Kieran, a **Full Stack Developer & Security Engineer** from Glasgow, Scotland. With over 8 years in the field, I have worked with clients ranging from the small creative agencies to the large tour operators around the world building solutions that scale with their business.
 
