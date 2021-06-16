@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/0x51D/0x51d/master/HEADER.png "Header")](https://develop.scot/)
+[![Header](https://raw.githubusercontent.com/0x51D/0x51d/master/banner.png "Header")](https://develop.scot/)
 
 <br>
-Welcome to my GitHub! I'm Kieran, a Full Stack Developer & Security Engineer from Glasgow, Scotland. With over 10 years in the field, I have worked with clients ranging from the small creative agencies to the large tour operators around the world building solutions that scale with their business. Currently the Senior Lead Developer at ADEO Group Scotland, and Owner of Develop Scotland. 
+Welcome to my GitHub! I'm Kieran, a Full Stack Developer & Security Engineer from Glasgow, Scotland. With over 10 years in the field, I have worked with clients ranging from the small creative agencies to the large tour operators around the world building solutions that scale with their business. Director and Head of Technology at Develop Scotland.
 
 ### ✔️ I'm currently learning
 - GoLang
